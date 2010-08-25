@@ -1,0 +1,6 @@
+Modification of the Trent Richardson's jQuery-UI Timepicker widget addon for 
+the native jQuery-UI datepicker.
+
+Making some slight amendments, mostly running it through jslint to clean it 
+up and make it more friendly to minification as well as fixing some issues
+I had with it not recognising certain timeformats.
